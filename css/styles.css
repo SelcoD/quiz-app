@@ -26,11 +26,11 @@ body {
   position: relative;
 }
 .bookmark-corner {
-  width: 80px;
-  height: 80px;
+  width: 40px;
+  height: 40px;
   position: absolute;
   right: -20px;
-  top: -35px;
+  top: -20px;
   background-color: white;
 }
 
@@ -40,10 +40,6 @@ body {
   gap: 20px;
   padding: 20px;
   justify-content: center;
-}
-
-.question-number {
-  text-align: center;
 }
 
 .question-text {
@@ -63,20 +59,20 @@ body {
 }
 
 .button:hover {
-  background-color: blue;
+  background-color: seashell;
 }
 
 footer {
   background-color: grey;
   width: 100%;
-  padding: 40px;
+  padding: 20px;
 }
 
 .home,
 .bookmark,
 .profile {
-  width: 80px;
-  height: 80px;
+  width: 40px;
+  height: 40px;
 }
 
 nav {
