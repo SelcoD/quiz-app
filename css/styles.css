@@ -72,6 +72,13 @@ footer {
   background-color: none;
   width: 100%;
   padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: row;
+}
+
+li {
+  list-style: none;
 }
 
 .home,
@@ -85,6 +92,6 @@ nav {
   display: flex;
   justify-content: space-around;
   flex-direction: row;
-  align-items: row;
-  margin: 0px;
+  align-items: center;
+  margin: 2px;
 }
