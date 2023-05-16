@@ -64,6 +64,8 @@ button {
   border: 1px solid;
   border-radius: 10px;
   cursor: pointer;
+  width: 200px;
+  margin: auto;
 }
 
 footer {
