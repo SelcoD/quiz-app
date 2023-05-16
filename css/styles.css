@@ -56,7 +56,7 @@ body {
   margin-block: 20px;
 }
 
-.button {
+button {
   background-color: white;
   color: black;
   padding: 5px 5px;
